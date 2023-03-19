@@ -1,0 +1,16 @@
+export default {
+    INITTIAL_SCREEN: 'InitialScreen',
+    LOGIN_SCREEN: 'LoginScreen',
+    SIGNUP_SCREEN: 'SignupScreen',
+    MAP_SCREEN: 'MapScreen',
+    HOME_SCREEN: 'HomeScreen',
+    APPOINTMENT_SCREEN: 'AppointmentScreen',
+    PROFILE_SCREEN: 'profileScreen',
+    HOME: 'Home',
+    CONFIRMATION_CODE_SCREEN: 'ConfirmationCodeScreen',
+    FORGOT_PASSWORD_SCREEN: 'ForgotPasswordScreen',
+    UPCOMING_ORDER_DETAIL_SCREEN: 'UpcomingOrderDetailScreen',
+    RESCHEDULE_SCREEN: 'RescheduleScreen',
+    REVIEWANDCONFIRMSCREEN: 'ReviewAndConfirmScreen',
+    FAVORITE_SCREEN: 'FavoriteScreen',
+}
